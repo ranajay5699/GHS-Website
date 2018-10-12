@@ -1,0 +1,117 @@
+body,html{
+	margin: 0;
+  padding: 0;
+  	width: 100%;
+  	min-height: 100%;
+    position: relative;
+}
+body{
+  font-family: 'Roboto';
+  background-color: #c5b358;
+   margin: 0 0 80px;
+}
+header,div{
+	box-sizing: border-box;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+a ,a:hover, a:visited{
+  color:#c5b358;
+}
+/*Marquee*/
+.emergency{
+  color:#FFFFFF;
+  background-color: #D50000;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 25px;
+  margin-top: 70px;
+  margin-bottom: 25px;
+}
+/*HEADER*/
+.GHSlogo{
+  height: 100px;
+  width:80px;
+  margin-right: 1em;
+  vertical-align: top;
+  margin-top: 12px;
+}
+
+.GHStitle {
+  font-size: 3em;
+  margin: 0.5em 0.25em;
+  display: inline-block;
+  color: #c5b358;
+  font-family:'Roboto', sans-serif;
+}	
+  /*Navigation*/
+.navbar-toggle{
+  position:relative;
+  float:right;
+  padding:9px 10px;
+  margin-top:15px;
+  margin-right:15px;
+  margin-bottom:0;
+  background-color:#c5b358;
+  background-image:none;
+  border:1px solid transparent;
+  border-radius:4px;
+  vertical-align:middle;
+}
+.navbar-toggle .icon-bar{
+  display:block;
+  width:22px;
+  height:2px;
+  border-radius:1px;
+}
+.navbar-default .navbar-collapse,.navbar-default .navbar-form{
+  background-color:#c5b358;
+   font-family:'Roboto'; 
+   font-size:17px; 
+   color:#663399;
+ }
+ .navbar-default .navbar-nav>.active>a,.navbar-default .navbar-nav>.active>a:hover,.navbar-default .navbar-nav>.active>a:focus{
+  color:#c5b358;
+  background-color:#663399;
+}
+.navbar-default .navbar-nav>li>a{
+  color:#663399;
+}
+.navbar-nav>li>.dropdown-menu{
+  font-size:17px;
+}
+.dropdown-menu{
+  font-size: 17px;
+}
+/*Footer*/
+.footer{
+  background-color:#607D8B;
+  text-align:center;
+  width:100%;
+  color:#c5b358;
+  font-size: 20px;
+  position: fixed;
+  bottom: 0px;
+  -webkit-box-shadow: 0px -12px 52px 15px rgba(46,74,117,1);
+-moz-box-shadow: 0px -12px 52px 15px rgba(46,74,117,1);
+box-shadow: 0px -12px 52px 15px rgba(46,74,117,1);
+}
+/*Title*/
+.title{
+  background-color:#757575;
+  color:#FFFFFF;
+  width:80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 70px;
+  text-align: center;
+  font-size: 35px;
+  text-decoration: underline;
+  -webkit-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  
+}

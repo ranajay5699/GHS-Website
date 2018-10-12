@@ -1,0 +1,35 @@
+@media screen and (max-width: 449px){
+    .memberacad>th,td{
+    font-size: 14px;
+  }
+}
+@media screen (min-width:450px;) and (max-width:593px){
+  .memberacad>th,td{
+    font-size: 15px;
+  }
+}
+@media screen and (min-width: 535px) and (max-width:636px){
+   .title{
+    margin-top: 80px; 
+  }
+ }
+ @media screen and (min-width:637px) and (max-width:767px){
+    .title{
+    margin-top: 90px;
+  }
+}
+
+@media screen and (min-width: 768px){
+  .title{
+    display: none; 
+  }
+  .acad{
+    margin-top: 200px;
+    width: 40%;
+  }
+  .athl{
+    margin-top: 200px;
+    width: 40%;
+  }
+}
+

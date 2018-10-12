@@ -1,0 +1,38 @@
+@media screen and (max-width:444px){
+  .icon{
+    height: 70px;
+    width: 70px;
+    vertical-align: middle;
+  }
+}
+@media screen and (min-width: 535px) and (max-width:636px){
+   .title{
+    margin-top: 80px; 
+  }
+ }
+ @media screen and (min-width:637px) and (max-width:767px){
+    .title{
+    margin-top: 90px;
+  }
+}
+@media screen and (min-width: 768px){
+  .title{
+    display: none; 
+  }
+  .mac{
+    margin-top: 200px;
+  }
+  .ath{
+    width:40%;
+  }
+  .act{
+    width:40%;
+  }
+  .maps{
+    width:40%;
+    margin-bottom: 35px;
+  }
+    .twitter{
+    width:40%;
+  }
+}

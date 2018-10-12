@@ -1,0 +1,116 @@
+.content{
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media screen and (max-width:367px){
+  .GHStitle{
+    font-size: 20px;
+    vertical-align:middle;
+    margin-top:15px;
+    margin-left: 0;
+  }
+  .GHSlogo{
+    width:30px;
+    height:40px;
+  }
+  .navbar-toggle {
+    margin-top: 10px;
+}
+}
+@media screen and (max-width: 666px){
+  .footer{
+    font-size: 15px;
+  }
+  body{
+    margin-bottom: 75px;
+  }
+}
+@media screen and (min-width: 368px) and (max-width:534px){
+  .GHStitle{
+    font-size: 25px;
+    vertical-align: middle;
+    margin-top:15px;
+    margin-left: 0;
+  }
+  .GHSlogo{
+    width:40px;
+    height:50px;
+  }
+}
+
+@media screen and (min-width: 535px) and (max-width:636px){
+  .GHStitle{
+    font-size: 30px;
+    vertical-align: bottom;
+    margin-top:15px;
+  }
+  .GHSlogo{
+    width:45px;
+    height:55px;
+  }
+  .navbar-toggle .icon-bar{
+    width:26px;
+    height:2px;
+  }
+  .navbar-toggle{
+    padding: 10px 12px;
+  }
+}
+
+@media screen and (min-width:637px) and (max-width:767px){
+	 .GHSlogo {
+	width:55px;
+    height: 65px;
+    margin-right: 0.5em;
+	}
+	.GHStitle{
+	margin-left: 0;
+    font-size: 35px;
+    vertical-align: bottom;
+	}
+  .navbar-toggle .icon-bar{
+    width:30px;
+    height:3px;
+  }
+  .navbar-toggle{
+    padding: 13px 15px;
+  }
+}
+@media screen and (min-width: 768px){
+  .navbar-toggle{
+    display:none;
+    }
+  .navbar-collapse.collapse{
+    display:block!important;
+    height:auto!important;
+    padding-bottom:0;
+    overflow:visible!important;
+    background-color: #663399;
+  }
+  .navbar-default .navbar-collapse, .navbar-default .navbar-form{
+    background-color: #663399;
+  }
+  .navbar-default .navbar-nav>.active>a,.navbar-default .navbar-nav>.active>a:hover,.navbar-default .navbar-nav>.active>a:focus{
+    color:#663399;
+    background-color:#c5b358;
+  }
+  .navbar-default .navbar-nav>li>a{
+  color:#c5b358;
+}
+.navbar-collapse.collapse{
+    display:block!important;
+    height:auto!important;
+    padding-bottom:0;
+    overflow:visible!important;
+    background-color: #663399;
+  }
+}
+@media screen and (min-width:768px) and (max-width:991px){
+  .navbar-nav>li>a{
+    padding-left: 9.5px;
+    padding-right: 9.5px;
+    font-size:16px;
+  }
+}

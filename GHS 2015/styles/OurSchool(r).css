@@ -1,0 +1,47 @@
+@media screen and (max-width:335px){
+  .qbody{
+    font-size: 16px;
+  }
+}
+@media screen and (min-width: 535px) and (max-width:636px){
+   .title{
+    margin-top: 80px; 
+  }
+ }
+ @media screen and (min-width:637px) and (max-width:767px){
+    .title{
+    margin-top: 90px;
+  }
+  .Hof{
+    width:40%;
+    margin-bottom: 35px;
+  }
+  .Quill{
+    width:40%;
+  }
+}
+@media screen and (min-width: 768px){
+  .title{
+    display: none; 
+  }
+  .schedhule{
+    width:30%;
+    margin-top: 200px;
+  }
+    .Hof{
+    width:40%;
+    margin-bottom: 35px;
+  }
+  .Quill{
+    width:40%;
+  }
+  .links{
+    width:40%;
+    margin-bottom: 35px;
+  }
+  .safety{
+    width: 40%;
+    margin-bottom: 35px;
+  }
+}
+

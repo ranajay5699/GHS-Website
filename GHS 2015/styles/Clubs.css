@@ -1,0 +1,79 @@
+.mac{
+	background-color: #663399;
+	-webkit-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  height: 100px;
+  width:80%;
+  margin-top: 35px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size:20px;
+  text-align: center;
+  vertical-align: middle;
+}
+.icon{
+	height:100px;
+	width: 100px;
+}
+.ath{
+	margin-top: 35px;
+	width:80%;
+	background-color:#663399;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 17px;
+	color:#c5b358;
+	border:1px solid white;
+	-webkit-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+}
+.tath{
+	text-align: center;
+}
+.ath>th,td{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border:1px solid white;
+}
+.act{
+	margin-top: 35px;
+	width:80%;
+	background-color:#663399;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 17px;
+	color:#c5b358;
+	height:162px;
+	border:1px solid white;
+	-webkit-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+}
+.tact{
+	text-align: center;
+}
+.maps{
+  width:80%;
+  height:250px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 35px;
+  -webkit-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+} 
+.twitter{
+  width:70%;
+  height:250px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  -webkit-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+} 

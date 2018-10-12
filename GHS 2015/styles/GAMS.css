@@ -1,0 +1,35 @@
+.msg{
+	margin-left: auto;
+	margin-right: auto;
+	border:1px solid white;
+	margin-bottom:35px; 
+	margin-top:35px;
+	background-color: #663399;
+	color:#c5b358;
+	text-align: center;
+	width:80%;
+	-webkit-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  	-moz-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  	box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  	font-size: 17px;
+}
+.tmsg{
+	font-size: 20px;
+	text-align: center;
+}
+.msgbody{
+	overflow: auto;
+	height:500px;
+}
+.text{
+	color:#663399;
+		width:80%;
+	-webkit-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  	-moz-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  	box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  	font-size: 17px;
+  	margin-left:auto;
+  	margin-right: auto;
+  	text-align: center;
+  	margin-bottom: 35px; 
+}

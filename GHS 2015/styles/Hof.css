@@ -1,0 +1,256 @@
+/*Entire Acad*/
+.acad{
+	width:80%;
+	margin-left:auto;
+	margin-right: auto;
+}
+/*Academic HOF Title*/
+.AcadHof{
+	text-align: center;
+	margin-top:35px;
+	margin-bottom: 10px;
+	font-size: 25px;
+	color:#663399;
+	font-weight: bolder;
+	width:100%;
+}
+/*Members Body*/
+.memberacad{
+	width:99%;
+	margin-bottom: 35px;
+	margin-left: auto;
+	margin-right: auto;
+	height:300px;
+	text-align: center;
+	color:#212121;
+	background-color: #E0E0E0;
+	display:block;
+	overflow: auto;
+	border:1px solid white;
+	-webkit-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+}
+.memberacad>th,td{
+	 font-size: 17px;
+	 border:1px solid white;
+}
+.tmem{
+	text-align: center;
+	font-size: 20px;
+	height:30px;
+    border:1px solid white;
+}
+/*Col Widths*/
+.classof1,.induct1,.name1{
+	width:100%;
+	font-weight: bold;
+	background-color: #c5b358;
+	color:#663399;
+}
+
+/*Header Members*/
+.tmemberacad{
+	width:100%;
+	height:50px;
+	margin-bottom: 1px;
+	background-color: #663399;
+	color:#c5b358;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	-webkit-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+}
+/*Academic HOF Photos*/
+.acadpix{
+	width:100%;
+	margin-bottom: 35px;
+	margin-left: auto;
+	margin-right: auto;
+	height:200px;
+	text-align: center;
+	color:#c5b358;
+	background-color: #663399;
+	border:1px double white;
+	-webkit-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+}
+.tpix{
+	text-align: center;
+	font-size: 20px;
+	height:50px;	
+}
+.acadbody{
+	overflow:auto;
+	height:150px;
+	background-color:#E0E0E0;
+}
+.acadbody>li{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 17px;
+	border-bottom: 1px solid #212121;
+	margin-top: 2px;
+}
+/*Acad Nom/Invi*/
+.acadform{
+	width:100%;
+	margin-bottom: 35px;
+	margin-left: auto;
+	margin-right: auto;
+	height:200px;
+	text-align: center;
+	color:#c5b358;
+	background-color: #663399;
+	border:1px solid white;
+	-webkit-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+}
+.tform{
+	text-align: center;
+	font-size: 20px;
+	height:50px;	
+}
+.form{
+	overflow:auto;
+	height:150px;
+	background-color:#E0E0E0;
+}
+.form>li{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 17px;
+	border-bottom: 1px solid #212121;
+	margin-top: 2px;
+}
+/***************************************************/
+/*Entire Athl*/
+.athl{
+	width:80%;
+	margin-left:auto;
+	margin-right: auto;
+}
+/*Athletic HOF Title*/
+.AthlHof{
+	text-align: center;
+	margin-top:35px;
+	margin-bottom: 10px;
+	font-size: 25px;
+	color:#663399;
+	font-weight: bolder;
+	width:100%;
+}
+/*Member Head*/
+.tmemberathl{
+	width:100%;
+	height:50px;
+	margin-bottom: 1px;
+	background-color: #663399;
+	color:#c5b358;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	-webkit-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+}
+/*Members body*/
+ .memberathl{	
+	width:99%;
+	margin-bottom: 35px;
+	margin-left: auto;
+	margin-right: auto;
+	height:300px;
+	text-align: center;
+	color:#212121;
+	background-color: #E0E0E0;
+	display:block;
+	overflow: auto;
+
+}
+/*Col widths*/
+.name3,.induct3,.classof3,.letter1,.sport1{
+	width:100%;
+	margin-right: 0;
+	font-weight: bold;
+	background-color: #c5b358;
+	color:#663399;
+}
+/*Nomination*/
+.nomform{
+	border:1px solid white;
+	-webkit-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  	width:100%;
+	margin-bottom: 35px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 20px;
+	background-color: #663399;	
+	text-align: center;
+}
+/*Statement*/
+.text{
+	border:1px solid white;
+	-webkit-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  	width:100%;
+	margin-bottom: 35px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 20px;
+	background-color: #663399;	
+	text-align: center;
+	color:#c5b358;
+}
+.textbody{
+	overflow: auto;
+	height:200px;
+}
+/*Team HOF Members*/
+.teamhead{
+	width:100%;
+	height:50px;
+	margin-bottom: 1px;
+	background-color: #663399;
+	color:#c5b358;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid white;
+	-webkit-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+  box-shadow: 0px 9px 67px 1px rgba(0,0,0,0.75);
+}
+.tteam{
+	text-align: center;
+	font-size: 20px;
+}
+/*Body col-width*/
+ .teammem{	
+	width:99%;
+	margin-bottom: 35px;
+	margin-left: auto;
+	margin-right: auto;
+	height:300px;
+	text-align: center;
+	color:#212121;
+	background-color: #E0E0E0;
+	display:block;
+	overflow: auto;
+
+}
+.team1,.induct5,.coach1{
+	width:100%;
+	margin-right: 0;
+	font-weight: bold;
+	background-color: #c5b358;
+	color:#663399;
+}
+}

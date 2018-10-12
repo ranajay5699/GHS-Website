@@ -1,0 +1,22 @@
+
+@media screen and (min-width: 535px) and (max-width:636px){
+   .title{
+    margin-top: 80px; 
+  }
+ }
+ @media screen and (min-width:637px) and (max-width:767px){
+    .title{
+    margin-top: 90px;
+  }
+}
+@media screen and (min-width: 768px){
+  .title{
+    display: none; 
+  }
+  .state{
+    margin-top: 200px;
+  }
+  .dpt{
+    width:40%;
+  }
+}
